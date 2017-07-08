@@ -1,5 +1,5 @@
-# manage-system #
-基于Vue.js 2.x系列 + Element UI 动态表格[线上地址](http://work.omwteam.com/)
+# vue table #
+基于Vue.js 2.x系列 + Element UI 动态表格[线上地址](https://github.com/wwk123/vue-form)
 
 ## 目录结构介绍 ##
 
